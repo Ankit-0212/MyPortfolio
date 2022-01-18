@@ -387,6 +387,9 @@ h3.my-profession
     flex: 0 0 100%;
     max-width: 100%;
 }
+.theme-icon{
+    color: #222222;
+}
 .about .about-content .about-text h3
 {
     font-size: 24px;
