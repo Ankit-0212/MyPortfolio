@@ -800,6 +800,10 @@ h3.my-profession
         margin-left: 0;
     }
 }
+
+.theme-icon{
+    color: #918585;
+}
 @media (max-width:991px)
 {
     .contact .contact-info-item,
