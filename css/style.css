@@ -388,7 +388,7 @@ h3.my-profession
     max-width: 100%;
 }
 .theme-icon{
-    color: #222222;
+    color: #918585;
 }
 .about .about-content .about-text h3
 {
@@ -670,6 +670,11 @@ h3.my-profession
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
+}
+.-project-heading{
+    text-decoration: none;
+    color: var(--text-black-900);
+    text-align: center;
 }
 .portfolio .portfolio-item-inner .portfolio-img img
 {
